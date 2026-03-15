@@ -1,3 +1,4 @@
+// Comentario añadido
 package figuras;
 import java.awt.Color;
 public abstract class Figura{
